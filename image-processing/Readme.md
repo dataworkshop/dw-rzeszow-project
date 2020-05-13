@@ -62,7 +62,21 @@ python image-processing.py file test.jpg
 
 Use "ESC" key to continue.
 
+## Input
+### test.jpg as input
+![Image description](https://i.ibb.co/2sYVq6F/test.jpg)
+
+
+## Output
+### Step 1
+![Image description](https://i.ibb.co/WGPxMPq/frame-unsharp-mask.jpg)
+### Step 2
+![Image description](https://i.ibb.co/P1BWH52/frame-bitwise-not.jpg)
+### Step 3
+![Image description](https://i.ibb.co/6wxjC3g/frame-cutted-Thresh.png)
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
